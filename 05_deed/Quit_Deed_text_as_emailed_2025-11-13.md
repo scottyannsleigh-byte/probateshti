@@ -49,3 +49,9 @@ State of Florida, County of Pinellas — acknowledgment block ("The foregoing in
 - **Unrecorded ≠ invalid against the estate** — § 695.01 protects only creditors and subsequent purchasers for value without notice; heirs and the PR take subject to a delivered deed.
 - **Recording path without a notary**: proof of execution by a subscribing witness (§ 695.03) — Kraft's affidavit is exactly this instrument. Discuss recording with counsel THIS WEEK (the PR is actively selling estate real estate; a sale to an innocent buyer could cut off an unrecorded interest).
 - Expect challenges: authenticity/handwriting, capacity, undue influence, delivery, witness credibility. The signed original + witness testimony are the answer to all of them.
+
+---
+
+## 🔑 STRONG CORROBORATION FOUND (07/04/2026)
+
+Rick's OWN title came through a nearly identical attorney-drafted Lady Bird deed: the **2020 deed** (William F. Melillo → life estate → remainder to Richard W. Melillo, Instrument #2020208528, prepared by The Diamond Law Firm) uses the **same operative enhanced-life-estate language** as Brandi's 2025 deed. See `04_property_records/KEY_FINDING_2020_deed_is_also_a_LadyBird_deed.md` and the image in `04_property_records/recorded_images/`. This shows Rick knew exactly what a Lady Bird deed was — one already sat in his chain of title — and that Brandi's deed mirrors it. Major authenticity/intent support against a "forgery/fabrication" attack.
