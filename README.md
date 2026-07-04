@@ -23,6 +23,10 @@
 | `05_deed/` | Text of the September 13, 2025 enhanced-life-estate ("Lady Bird") quit deed as emailed 11/13/2025. **The signed ORIGINAL is the critical evidence — safeguard it.** |
 | `06_research/` | Six detailed Florida-law research memos (defaults, correction queue, fees/indigency, ejectment & Lady Bird deeds, probate strategy, legal aid/tactics) + reference PDFs (AOSC20-77, SC2023-1401 opinion). |
 
+## ⚠️ POSTURE CHANGE (07/04/2026 evening): CLERK DEFAULT WAS ENTERED 06/29/2026
+
+The live ejectment docket (pasted by Brandi 07/04) shows: served **06/04/2026** → answer due **06/24/2026** → Brandi's portal answer submitted **06/11 (timely, day 7)** but misdirected → **CLERK DEFAULT ENTERED 06/29/2026** ("ROGERS, BRANDI", with motion). **No final judgment, no hearing, no writ — yet.** The operative filing is now the **Motion to Set Aside Clerk's Default** — a ready-to-review draft is in `07_drafts/DRAFT_Motion_to_Set_Aside_Clerks_Default.md`, and the timeline (timely June 11 submission + clerk's own correction instructions) makes the excusable-neglect showing unusually strong. See `03_court_records/CIVIL_DOCKET_26-002613-CI_as_pasted_2026-07-04.md`.
+
 ## The one-paragraph situation
 
 Your Answer (captioned for 26-002613-CI) was e-filed June 11, 2026 into the probate case by mistake, e-served on plaintiff's counsel the same day, bounced by the clerk June 15 ("RESUBMIT INTO CIVIL CASE") and again July 1 ($395 counterclaim fee). Plaintiff moved for clerk default June 29. **Best next move: e-file the Answer & Affirmative Defenses (counterclaims removed → $0 fee) directly into 26-002613-CI immediately, plus a Response in Opposition to the default motion attaching Exhibits A–H.** An answer alone is free (Fla. Stat. § 28.241(3)); a clerk default is improper against a defendant who has served any document (Fla. R. Civ. P. 1.500(a); *Picchi v. Barnett Bank*, 521 So. 2d 1090 (Fla. 1988)); and you may plead any time before a default is entered (Rule 1.500(c)).
