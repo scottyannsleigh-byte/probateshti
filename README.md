@@ -30,5 +30,10 @@ Your Answer (captioned for 26-002613-CI) was e-filed June 11, 2026 into the prob
 ## Key dates
 
 - **NOW / Mon Jul 6, 2026** — file Answer + Opposition in 26-002613-CI; check docket for entered default; call Gulfcoast Legal Services (727) 821-0726
-- **~Jul 31, 2026** — correction-queue window for Filing #250196245 expires
+- **~Jul 15, 2026** — last clean day for the answer to relate back to June 11 (30 days from the June 15 correction notice; the windows do NOT chain — verified)
+- **~Jul 31, 2026** — second correction-queue window (July 1 fee notice) expires; relates back only to June 29 at best
 - **Sep 30, 2026** — estate inventory due in 26-000874-ES
+
+## Verification status
+
+Every key legal claim was adversarially re-verified against primary sources on July 4, 2026: **23 confirmed, 6 qualified, 1 incomplete**. The six qualifications (they matter — including the July 15 deadline above and the correct § 66.021(7) citation) are summarized in **`06_research/VERIFICATION_RESULTS.md`**; per-claim verdicts are inside each `06_research/LAW_*.md` memo.

@@ -14,10 +14,10 @@ Each exhibit exists as PDF (for printing/filing) and HTML (source). These are **
 | **G** | Clerk correction notice 07/01/2026 | same sender, 07/01/2026, "Filing # 250196245 Not Filed…" | Only remaining issue = **$395 counterclaim fee** (an answer alone is free, § 28.241(3)); new 30-day window to ~07/31/2026 |
 | **H** | Correspondence with opposing counsel 06/29–30 | jharig@dhclaw.com 06/29; replies 06/29–30; genglander@dhclaw.com 06/30 | Plaintiff's counsel had **actual knowledge** Defendant responded and is defending; Defendant promptly objected to the default motion |
 
-## Suggested argument skeleton (discuss with counsel)
+## Suggested argument skeleton (discuss with counsel — updated after adversarial verification, see `06_research/VERIFICATION_RESULTS.md`)
 
-1. **Clerk default unavailable** — Defendant "served" documents June 11 (Ex. A, C); Rule 1.500(a); *Picchi v. Barnett Bank*, 521 So. 2d 1090 (Fla. 1988); *EGF Tampa Assocs. v. Bohlen*, 532 So. 2d 1318 (Fla. 2d DCA 1988).
-2. **Right to plead before entry** — Rule 1.500(c); the Answer is now filed in this case.
-3. **Relation back** — Rule 2.525(f)(2)(A): corrected resubmission relates back to 06/11/2026 (Ex. A, D, F, G).
-4. **Due diligence / good faith** — Ex. D–H timeline: Defendant followed the clerk's own correction instructions continuously.
-5. **Meritorious defenses** — enhanced-life-estate deed + protected homestead (see `06_research/LAW_ejectment_ladybird_deed.md`); § 66.021(4) chain-of-title with deed attached.
+1. **Right to plead before entry (LEAD ARGUMENT — confirmed)** — Rule 1.500(c): "A party may plead or otherwise defend at any time before default is entered." The Answer is now filed in this case; the motion is moot.
+2. **Relation back** — Rule 2.525(f)(2)(A): the corrected resubmission relates back to the 06/11/2026 portal submission (Ex. A, D, F, G) — assert it expressly; the clean window for the June 11 date runs to ~07/15/2026 (30 days from the June 15 notice; windows do not chain).
+3. **Due diligence / good faith** — Ex. D–H timeline: Defendant continuously followed the clerk's own correction instructions; resubmitted the same day the default motion was served.
+4. **Service / actual knowledge (SUPPORTING argument — verification found it contestable)** — Defendant's answer was e-served on Plaintiff's firm June 11 (Ex. C) and counsel corresponded with her about it (Ex. H); cite *Picchi v. Barnett Bank*, 521 So. 2d 1090 (Fla. 1988) and *EGF Tampa Assocs. v. Bohlen*, 532 So. 2d 1318 (Fla. 2d DCA 1988) for the liberal "any document" construction, but note Rule 1.500 is action-specific and these papers moved through the probate case — frame as equity/no-prejudice, and as excusable neglect if a default was entered.
+5. **Meritorious defenses** — enhanced-life-estate deed + protected homestead (see `06_research/LAW_ejectment_ladybird_deed.md`); **§ 66.021(7)** chain-of-title statement with copies of every identified instrument attached (current numbering — not the pre-2018 (4)); § 66.021(8) available to test the PR's chain.
